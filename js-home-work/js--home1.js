@@ -2,16 +2,16 @@
 
 //-----1-----
 
-// let i = 1;
+let i = 1;
 
-// if (i > 0) {
-//   console.log(true);
-// } else if (i<0){
-//   console.log(false);
-// }
-// else{
-//     console.log('something went wrong please try again')
-// }
+if (i > 0) {
+  console.log(true);
+} else if (i<0){
+  console.log(false);
+}
+else{
+    console.log('something went wrong please try again')
+}
 
 //------2------
 
